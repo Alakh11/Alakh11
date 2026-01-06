@@ -1,20 +1,3 @@
-## Hi there 👋
-
-
-**Alakh11/Alakh11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-
 # Hi there, I'm Alakh! 👋
 
 ### 👨‍💻 About Me
@@ -36,8 +19,8 @@ I am a **Full Stack Developer** dedicated to building scalable web applications 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alakh11&layout=compact&theme=radical)
 
 ### 📫 How to reach me
-- **LinkedIn**: [https://www.linkedin.com/in/alakhchaturvedi/]
-- **Portfolio**: [(https://alakh-finance.vercel.app/)]
+- **LinkedIn**: https://www.linkedin.com/in/alakhchaturvedi/
+- **Portfolio**: https://alakh-finance.vercel.app/
 
 ---
 "Focusing on clean code and even cleaner Git histories."
