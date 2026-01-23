@@ -12,14 +12,19 @@ I am a **Full Stack Developer** specializing in building scalable web applicatio
 
 ## 🚀 Featured Projects
 
+### ☀️ ShubhUrja Solar Solutions (Live Production)
+A full-scale digital platform for a solar energy startup, designed for high conversion and localized SEO.
+- **Live Site**: [shubhurja.in](https://shubhurja.in)
+- **Stack**: React, Vite, Framer Motion, EmailJS.
+- **Key Features**: Interactive ROI Savings Calculator, "Eco-Impact" Dashboard with animations, and serverless lead generation via EmailJS.
+- **Performance**: Optimized for 100/100 Lighthouse Speed Score and integrated with Schema.org for Local Business SEO.
+
 ### 💼 Enterprise CRM System (Custom Architecture)
 A high-performance internal tool built with a decoupled "Service-Oriented" backend approach.
 - **Frontend**: **React & TypeScript** for a robust, type-safe administrative interface.
 - **Backend (Management)**: **Django** for secure user authentication, role-based access, and admin management.
 - **Backend (API Layer)**: **FastAPI** for high-concurrency data retrieval and external service integrations.
 - **Database**: **MySQL (3NF)** optimized for complex relational queries.
-
-
 
 ### 📊 BizzTrack (Business & Invoice Management)
 A Refrens-like platform focused on the business lifecycle.
