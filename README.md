@@ -6,7 +6,7 @@
   <a href="https://linkedin.com/in/alakhchaturvedi/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://alakh-finance.vercel.app/">
+  <a href="https://alakh11.github.io/finance-tracker/">
     <img src="https://img.shields.io/badge/Portfolio-Live_Site-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   <a href="mailto:alakh1304@gmail.com">
